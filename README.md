@@ -54,20 +54,21 @@ I’m especially excited to join a team that:
 
 ## 📌 Featured Projects
 
-- **Internal ERP/CRM system** – Custom-built for real estate workflows  
-- **FusionAuth SSO for Laravel apps** – Seamless user authentication with fine-grained control  
+- **E-learning platform** - with WebRTC audio/video and Chat functionality with Websockets
+- **Web scraping project** - Scraping data from hundreds of websites, optimizing and handling big databases built for full-text search  
 - **OpenID4VP implementation** – Authenticating users with verifiable credentials  
-- **[hollohazi.hu](https://hollohazi.hu)** – High-traffic ecommerce site, WCAG AA compliant  
-- **Custom analytics/reporting dashboards** – Real-time and historical insights  
-- **AI experiments** – Exploring LLMs for document analysis and workflow automation
+- **Integrating Oauth2 SSO for Laravel apps** – Seamless user authentication with fine-grained control  
+- **Internal communication platforms** - built for different organisations  
+- **Internal ERP/CRM system** – built for real estate workflows  
+- **High-traffic ecommerce sites** – Integrating several payment gateways, making the frontend WCAG AA compliant
+- CI/CD system for testing and deploying Laravel apps to multiple environments using Deployer
 
 ---
 
 ## 📚 Currently Learning & Exploring
 
-- 🟦 TypeScript, modern Node.js, and backend development with Go  
+- 🟦 Backend development with Go and TypeScript
 - 🔐 Advanced JWT, SD-JWT, and OpenID-related authentication flows  
-- ☁️ Self-hosted infrastructure with Docker, Ansible, and coolify.io
 
 ---
 
@@ -82,3 +83,4 @@ I’m always happy to meet new people and explore potential opportunities.
 ---
 
 🛠️ _This README is proudly crafted in Markdown and managed with Git ❤️_
+ 
