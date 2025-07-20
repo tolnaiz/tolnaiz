@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Zoltán Tolnai (Zoli)
 
-🎯 **Senior Full-Stack Web Developer** | PHP/Laravel Expert | DevOps Enthusiast  
+🎯 **Senior Full-Stack Web Developer** | DevOps Enthusiast  
 📍 Based in Hungary | Open to Remote Opportunities in Europe  
 
 ---
@@ -44,8 +44,8 @@ I’m especially excited to join a team that:
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** PHP, JavaScript, SQL, Bash, TypeScript, Go (learning)  
-- **Frameworks:** Laravel, Vue.js, React, Inertia.js  
+- **Languages:** PHP, JavaScript, SQL, Bash, Ruby, TypeScript (learning), Go (learning)
+- **Frameworks:** Laravel, Rails, Vue.js, React, Inertia.js  
 - **DevOps:** Docker, GitLab CI, Nginx, MySQL, Redis, Memcached, Grafana, Ansible  
 - **Tools:** Linux (Ubuntu/Debian), Git, VS Code, Neovim, Slack, Jira  
 - **Other:** REST APIs, AI-assisted development, OAuth2, JWT, SD-JWT, WebSockets, SSE
@@ -54,14 +54,16 @@ I’m especially excited to join a team that:
 
 ## 📌 Featured Projects
 
-- **E-learning platform** - with WebRTC audio/video and Chat functionality with Websockets
-- **Web scraping project** - Scraping data from hundreds of websites, optimizing and handling big databases built for full-text search  
-- **OpenID4VP implementation** – Authenticating users with verifiable credentials  
-- **Integrating Oauth2 SSO for Laravel apps** – Seamless user authentication with fine-grained control  
-- **Internal communication platforms** - built for different organisations  
-- **Internal ERP/CRM system** – built for real estate workflows  
-- **High-traffic ecommerce sites** – Integrating several payment gateways, making the frontend WCAG AA compliant
-- CI/CD system for testing and deploying Laravel apps to multiple environments using Deployer
+ - **Interactive e-learning platform** - with WebRTC audio/video and Chat functionality with Websockets
+ - **Web scraping project** - Scraping data from hundreds of websites using ruby/nokogiri and optimizing big databases for full-text search  
+ - Integrating several **payment processing systems** - multiple payment gateways, ensuring security and compliance
+ - **OpenID4VP implementation** – Authenticating users with verifiable credentials
+ - **Internal communication platforms** - built for different organisations  
+ - **Internal ERP/CRM system** – built for real estate workflows
+ - **High-traffic** news, real estate and e-commerce sites – with caching and search optimization
+ - content management systems, making them WCAG 2.0 AA compliant
+ - CI/CD system for testing and deploying Laravel apps to multiple environments using Deployer
+ - **Mobile app development** - Backend API written in laravel and Flutter for iOS and Android apps
 
 ---
 
