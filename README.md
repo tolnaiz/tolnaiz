@@ -69,20 +69,19 @@ I’m especially excited to join a team that:
 
 ## 📚 Currently Learning & Exploring
 
-- 🟦 Backend development with Go and TypeScript
-- 🔐 Advanced JWT, SD-JWT, and OpenID-related authentication flows  
+- Backend development with Go and TypeScript
+- Advanced JWT, SD-JWT, and OpenID-related authentication flows  
+
+## 🤝 Notable open-source contributions
+
+- hungarian translation of [OSCAR](https://gitlab.com/CrimsonNape/OSCAR-code)
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 If you're hiring or want to collaborate on interesting tech, feel free to reach out!  
 I’m always happy to meet new people and explore potential opportunities.
 
 📬 [tolnaiz+gh@gmail.com](mailto:tolnaiz+gh@gmail.com)  
-🌍 [LinkedIn](https://www.linkedin.com/in/tolnaiz)
-
----
-
-🛠️ _This README is proudly crafted in Markdown and managed with Git ❤️_
- 
+🌍 [LinkedIn](https://www.linkedin.com/in/tolnaiz) 
