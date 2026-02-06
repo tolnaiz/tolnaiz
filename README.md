@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Zoltán Tolnai (Zoli)
 
 🎯 **Senior Full-Stack Web Developer** | DevOps Enthusiast  
-📍 Based in Hungary | Open to Remote Opportunities in Europe  
+📍 Based in Hungary | Open to remote opportunities in Europe  
 
 ---
 
@@ -57,7 +57,7 @@ I’m especially excited to join a team that:
  - **Interactive e-learning platform** - with WebRTC audio/video and Chat functionality with Websockets
  - **Web scraping project** - Scraping data from hundreds of websites using ruby/nokogiri and optimizing big databases for full-text search  
  - Integrating several **payment processing systems** - multiple payment gateways, ensuring security and compliance
- - **OpenID4VP implementation** – Authenticating users with verifiable credentials
+ - **OpenID4VP implementation** – Authenticating users with verifiable credentials (DÁP eAzonosítás)
  - **Internal communication platforms** - built for different organisations  
  - **Internal ERP/CRM system** – built for real estate workflows
  - **High-traffic** news, real estate and e-commerce sites – with caching and search optimization
@@ -70,7 +70,6 @@ I’m especially excited to join a team that:
 ## 📚 Currently Learning & Exploring
 
 - Backend development with Go and TypeScript
-- Advanced JWT, SD-JWT, and OpenID-related authentication flows  
 
 ## 🤝 Notable open-source contributions
 
